@@ -70,6 +70,7 @@ else:
 
     # Execute the SQL command
     cursor.execute(sql_create_table)
+    #dfdfdf
 
     # Commit and close
     connection.commit()
